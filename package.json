@@ -1,0 +1,19 @@
+{
+  "name": "V14 Whitelist by Maravilha",
+  "version": "1.0.0",
+  "description": "Maravilha tarafından kodlanmış, gelişmiş v14 whitelist botu.",
+  "main": "maravilha.js",
+  "scripts": {
+    "start": "node maravilha.js"
+  },
+  "keywords": [],
+  "author": "Maravilha",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "fs": "^0.0.1-security"
+  },
+  "engines": {
+    "node": "17.x"
+  }
+}
